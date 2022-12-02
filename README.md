@@ -4,3 +4,6 @@ Exemplo de API REST criada com o .NET 7 + ASP.NET Core para contagem de acessos 
 Para conhecer mais sobre o uso do projeto **Dapr** com **.NET** acesse:
 
 **https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/**
+
+# Video do Renato:
+**https://www.youtube.com/watch?v=KdMd1D9agUI**
